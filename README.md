@@ -5,3 +5,5 @@
 (Date 01/11/2026) - Just found out that what I was considering 'minor' actually would mostly be worth their own commits, e.g. Minor update #1 had several different things that could/would be good to be their own commit, I am also considering using this README as a almost journal of big 'breakthroughs' for me, like this commit more thing. (Commit... Updated README with new found knowledge)
 
 (Date 03/11/2026) - Created a the study plan section, this will most likely be deleted when I complete it all... then my portfolio will turn into a real portfolio; other than that studies continue.
+
+(Date 03/11/2026) - Just learnt how to stage, commit and push using the terminal... great success, I will try to get into a good habit of this now so I have a easier time when I get change my career one day. Fingers crossed.
