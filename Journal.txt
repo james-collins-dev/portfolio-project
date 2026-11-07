@@ -5,3 +5,5 @@
 (Date 03/11/2026) - Created a the study plan section, this will most likely be deleted when I complete it all... then my portfolio will turn into a real portfolio; other than that studies continue.
 
 (Date 03/11/2026) - Just learnt how to stage, commit and push using the terminal... great success, I will try to get into a good habit of this now so I have a easier time when I get change my career one day. Fingers crossed.
+
+(Date 07/11/2026) - I will need to learn how to properly use branches on GitHub once I start adding more complex code in HTML & CSS
