@@ -7,3 +7,6 @@
 (Date 03/11/2026) - Just learnt how to stage, commit and push using the terminal... great success, I will try to get into a good habit of this now so I have a easier time when I get change my career one day. Fingers crossed.
 
 (Date 07/11/2026) - I will need to learn how to properly use branches on GitHub once I start adding more complex code in HTML & CSS
+
+(Date 09/11/2026) - Finished the HTML section of my course, I believe I understand most of it, I just need to keep updated with accessibility and assistive functions of a webpage to correctly use them, 
+                    my next section of the course is CSS, this is going to take some time to get good at so I will experiment with both CSS and branches on GitHub so I don't mess up the portfolio structure.
