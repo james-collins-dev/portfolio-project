@@ -1,0 +1,56 @@
+/* Navigation menu */
+.main-nav-item {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+
+nav > ul > li > a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 5px;
+}
+/* Navigation hover effects */
+.main-nav-menu a:hover {
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+
+
+
+/* Intro section */
+.roadmap-graphic > img {
+    width: auto;
+    height: 300px;
+}
+
+
+
+
+
+/* Main content section */
+main{
+    text-align: center;
+    height: auto;
+}
+
+.study-plan ul li {
+    list-style: none;
+}
+
+#css-learn {
+    border: 1px solid red;
+    padding: auto;
+}
+
+
+/* FOOTER */
+footer {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
