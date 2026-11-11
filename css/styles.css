@@ -33,6 +33,13 @@ nav > ul > li > a {
 }
 
 
+header {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    /* Added border for on screen visual, delete when happy with NAV */
+    border: 1px solid red;
+}
+
 
 /* Content section */
 /* Roadmap squares */
@@ -49,11 +56,27 @@ nav > ul > li > a {
     background-color: black;
 }
 
+.card-back {
+    display: none;    
+}
 
+.card-back > li {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+.roadmap-card:hover .card-front{
+    display: none;
+}
 
+.roadmap-card:hover .card-back {
+    display: inline-block;
+}
 
-
+.current-phase {
+    background-color: aqua;
+    
+}
 /* FOOTER */
 footer {
     display: inline-block;
