@@ -10,3 +10,7 @@
 
 (Date 09/11/2026) - Finished the HTML section of my course, I believe I understand most of it, I just need to keep updated with accessibility and assistive functions of a webpage to correctly use them, 
                     my next section of the course is CSS, this is going to take some time to get good at so I will experiment with both CSS and branches on GitHub so I don't mess up the portfolio structure.
+
+(Date 10/11/2026) - Strong start with CSS, its much more of a headache than HTML but a necessary technology I must master. 
+                    I think I am solving problems when I write code now. Baby steps. e.g. I won't admit how long it took to figure out the hover functions in css.
+                    My code is messy but I am aware it can be improved and adjusted for better readability and flow.
