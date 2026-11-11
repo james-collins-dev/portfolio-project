@@ -2,7 +2,8 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-/* Currently only targeting the index.html file, not sure if ill change layout of other pages when I get to it */
+
+/* Targeting homepage only */
 .index-main{
     text-align: center;
     height: auto;
@@ -34,34 +35,8 @@ nav > ul > li > a {
 
 
 /* Content section */
-/* Study plan section */
-.study-plan {
-    border: 1px solid red;
-}
-.study-plan ul li {
-    list-style: none;
-}
-
-#css-learn {
-    border: 1px solid red;
-    padding: auto;
-}
-
-
-
-
-/* Roadmap section */
-.roadmap-css-graphic {
-    /* border: 1px solid purple; */
-    height: auto;
-}
-
-article > ul > li {
-    list-style: none;
-}
-
 /* Roadmap squares */
-.roadmap-stage1, .roadmap-stage2, .roadmap-stage3, .roadmap-stage4, .roadmap-stage5, .roadmap-stage6 {
+.roadmap-card {
     border: 1px solid black;
     display: inline-block;
     width: 51%;
@@ -69,10 +44,9 @@ article > ul > li {
     border-radius: 50px;
 }
 /* Roadmap square hover effects */
-.roadmap-stage1:hover, .roadmap-stage2:hover, .roadmap-stage3:hover, .roadmap-stage4:hover, .roadmap-stage5:hover, .roadmap-stage6:hover {
+.roadmap-card:hover {
     color: white;
     background-color: black;
-    transform: scale(1.1);
 }
 
 
