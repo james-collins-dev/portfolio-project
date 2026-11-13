@@ -59,7 +59,7 @@ nav > ul > li > a {
 }
 
 .roadmap {
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .roadmap-card {
@@ -87,3 +87,14 @@ nav > ul > li > a {
 
 /* ABOVE HERE IS WHAT I CONSIDER 'COMPLETED' */
 /* BELOW HERE IS WORK IN PROGRESS CSS */
+
+.intro-subtitle {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: rgb(40, 40, 40);
+}
+
+.intro-description {
+    font-size: 0.75rem;
+    color: #4d4d4d;
+}
