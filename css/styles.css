@@ -30,22 +30,17 @@ footer p {
     margin: 5px 0px;
 }
 
-
-
-
 /* Navigation menu */
 .main-nav-item {
     display: inline-block;
     width: 33%;
     text-align: center;
 }
-
 nav > ul > li > a {
     color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 5px;
 }
-/* Navigation hover effects */
 .main-nav-menu a:hover {
     color: white;
     background-color: black;
@@ -54,6 +49,12 @@ nav > ul > li > a {
 }
 
 
+details {
+    border: 1px solid red;
+    margin: 20px 0;
+}
+
+/* BELOW HERE IS WORK IN PROGRESS CSS */
 /* Content section */
 /* Roadmap squares */
 .roadmap-card {
