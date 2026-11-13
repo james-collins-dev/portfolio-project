@@ -1,33 +1,35 @@
 /* Universal adjustments */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: sans-serif, Arial;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #F8FAFC;
 }
 
 header {
     padding-bottom: 30px;
     padding-top: 30px;
-    /* Added border for on screen visual, delete when happy with NAV */
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 footer {
     display: inline-block;
     width: 100%;
     text-align: center;
-    border: 1px solid red;
-}
-
-footer p {
-    font-size: small;
+    font-size: x-small;
+    margin-top: auto;
+    /* border: 1px solid red; */
 }
 
 /* Targeting homepage only */
 .index-main{
     text-align: center;
     height: auto;
-    border: 1px solid red;
-    width: 100%;
-    margin: 5px 0px;
+    width: 40%;
+    margin: 5px auto;
+    /* border: 1px solid red; */
+    /* width: 100%; */
 }
 
 /* Navigation menu */
@@ -44,45 +46,44 @@ nav > ul > li > a {
 .main-nav-menu a:hover {
     color: white;
     background-color: black;
+    /* border: 1px solid black; */
     border-radius: 10px;
     padding: 10px;
 }
 
 
-details {
+
+/* ROADMAP SECTION + Accessible Focus Adjustment */
+:focus-visible {
+    outline: 3px solid grey;
+}
+
+.roadmap {
     border: 1px solid red;
-    margin: 20px 0;
 }
 
-/* BELOW HERE IS WORK IN PROGRESS CSS */
-/* Content section */
-/* Roadmap squares */
 .roadmap-card {
-    border: 1px solid black;
-    display: inline-block;
-    width: 51%;
-    margin: 5px;
-    border-radius: 50px;
+    margin: 5px auto;
+    width: 50%;
+    border-radius: 20px;
+    border: 1px solid #CBD5E1;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
-/* Roadmap square hover effects */
+.roadmap-card summary {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
 .roadmap-card:hover {
-    color: white;
-    background-color: black;
+    border: 3px solid grey;
 }
 
-.card-back {
-    display: none;    
+.last-card{
+    margin-bottom: 5px;
 }
 
-.card-back > li {
-    list-style: none;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.roadmap-card:hover .card-front{
-    display: none;
-}
-
-.roadmap-card:hover .card-back {
-    display: inline-block;
-}
+/* ABOVE HERE IS WHAT I CONSIDER 'COMPLETED' */
+/* BELOW HERE IS WORK IN PROGRESS CSS */
