@@ -14,3 +14,6 @@
 (Date 10/11/2026) - Strong start with CSS, its much more of a headache than HTML but a necessary technology I must master. 
                     I think I am solving problems when I write code now. Baby steps. e.g. I won't admit how long it took to figure out the hover functions in css.
                     My code is messy but I am aware it can be improved and adjusted for better readability and flow.
+
+(Date 21/11/2026) - Took a longer than expected 'overload break' - This is a self defined term, I was feeling overwhelmed with the amount of things CSS has and what goes where or how to efficiently write code that works... 
+                    This break is now over and I am back to studying, I have reset some of my lessons which I felt I did not understand 100% therefore a reset to redo those specific lessons is a good solution in my mind.
